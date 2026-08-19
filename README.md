@@ -18,3 +18,7 @@
 ![](https://streak-stats.demolab.com/?user=Harshita-singhh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshita-singhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://komarev.com/ghpvc/?username=Harshita-singhh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&gradient=rainbow" />
+</p>
