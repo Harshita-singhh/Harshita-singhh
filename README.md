@@ -1,3 +1,9 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harshita&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+</p>
+
+
 # 💫 About Me:
 📡 I’m currently working on real-world Data Analytics & AI projects<br>👯 I’m looking to collaborate on Data Analytics, BI & AI projects<br>🤝 I’m looking for help with building impactful analytics solutions and breaking into the industry<br>🌱 I’m currently learning Advanced SQL, Python, Power BI & Business Analytics<br>💬 Ask me about Data Analysis, SQL, Power BI, Python/Pandas & Data Visualization<br>⚡ Fun fact: I enjoy finding stories hidden inside data 📈<br>
 
